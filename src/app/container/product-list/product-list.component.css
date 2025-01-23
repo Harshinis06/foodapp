@@ -1,0 +1,54 @@
+
+.container {
+    display:flex;
+    gap: 20px;
+   flex-wrap: wrap;
+   margin-right: 50px;
+}
+/*   
+  .card {
+    max-width: 300px;
+    margin: 10px;
+    height:440px;
+  }
+  
+  .card-img-top {
+    width: 100%; 
+    height: 50%; 
+    
+  }
+   .card-body{
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+     height: 100%; 
+  }
+
+
+  .ekart--product--name--withoutdist {
+    
+    padding-top: 50px;
+    
+}
+
+.ekart--product--name {
+    padding-top: 20px;
+}
+ .ekart--product--name
+  .ekart--product--category,
+  .ekart--product--available-colors {
+    margin-bottom: 0px;
+  }
+  
+  .sale-tag{
+     font-size: 14px; 
+    margin-top: 10px;
+    margin-left:220px;
+    
+    background-color: #FFC000;
+    color: #28282B;
+    font-weight: bold;
+    border: 1px solid #FFC000 ; 
+     position:absolute;    
+} */
