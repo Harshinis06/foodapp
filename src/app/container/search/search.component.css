@@ -1,0 +1,31 @@
+.search-bar{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 20px;
+    margin-left: 500px;
+}
+.form-control{
+   
+    width: 320px;
+    padding: 5px;   
+}
+.search-bar .btn{
+    padding: 5 px;
+    margin: 5px;
+}
+.btn-search{
+    color: aliceblue;
+    outline: auto;
+    background-color: goldenrod;
+}
+.btn-search-disable{
+    color: aliceblue;
+    outline: auto;
+    cursor:no-drop;
+    background-color: gray;
+}
+
+.searchtext{
+   text-align: center;
+}
