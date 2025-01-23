@@ -1,0 +1,15 @@
+.form-control{
+    width: 200px;
+}
+.latestcard{
+  display: flex;
+  background-color:rgb(199, 191, 191);
+  padding: 5px;
+  margin: 20px 60px;
+}
+.contents{
+    display: flex;
+    color:black;
+    /* font-size: 20px; */
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
